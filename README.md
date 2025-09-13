@@ -1,4 +1,4 @@
-# Toxic-Comment-Classifier-AWS-Sagemaker1
+# Toxic-Comment-Classifier-AWS-Sagemaker
 🚀 Toxic Comment Classifier with HuggingFace &amp; AWS SageMaker
 
 📌 Project Overview
