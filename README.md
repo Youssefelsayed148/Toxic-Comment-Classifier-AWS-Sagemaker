@@ -38,6 +38,9 @@ We fine-tuned a DistilBERT model with the HuggingFace Transformers library on AW
 🔹 Deployment (Optional)
 - Accessible via the Hugging Face Inference API for real-time use cases.
 
+📦 Model
+The fine-tuned model is hosted on the Hugging Face Hub (https://huggingface.co/Youssef-El-SaYed/toxic-comment-classifier).
+
 ## Usage
 
 ```python
