@@ -10,12 +10,12 @@ We fine-tuned a DistilBERT model with the HuggingFace Transformers library on AW
 
 🛠 Tech Stack
 
--AWS SageMaker : Training & managed ML environment
--HuggingFace Transformers : Pre-trained NLP model (DistilBERT)
--PyTorch : Deep learning backend
--Amazon S3 : Data storage
--Python : Data processing, training scripts
--Jupyter Notebooks : EDA, evaluation
+- AWS SageMaker : Training & managed ML environment
+- HuggingFace Transformers : Pre-trained NLP model (DistilBERT)
+- PyTorch : Deep learning backend
+- Amazon S3 : Data storage
+- Python : Data processing, training scripts
+- Jupyter Notebooks : EDA, evaluation
 
 ⚙️ Project Pipeline
 
